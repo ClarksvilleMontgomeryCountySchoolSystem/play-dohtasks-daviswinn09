@@ -1,4 +1,5 @@
-color1 = "Green"
+def main():
+    color1 = "Green"
     color2 = "Pink"
     print(f"1) Use {color2} to roll a ball.")
     choice1 = input("1, 2, or 3? ")
